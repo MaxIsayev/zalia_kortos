@@ -12,6 +12,8 @@ class Deck:
     def forkinimas(self):
       pass
 
+    def new_function():
+        pass
 
 # Kortų kaladė
 # Korta: Objektas (Class)
