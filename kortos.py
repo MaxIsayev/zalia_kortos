@@ -6,6 +6,11 @@ class Card:
         self.suit = suit
         self.weight = weight
         self.color = color
+        self.rank = ('2', '3', '4', '5', '6', '7', '8', '9', 'T', 'J', 'Q', 'K', 'A')
+        self.suit = ('spades', 'clubs', 'hearts', 'diamonds')  
+    
+
+    
 
 class Deck:
 
